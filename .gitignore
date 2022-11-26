@@ -106,3 +106,5 @@ dist
 node_modules
 
 DroneCommand
+
+gym_dssat_pdi
